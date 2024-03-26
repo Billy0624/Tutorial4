@@ -4,3 +4,9 @@ format: html
 editor: visual
 author: "Bilguun Boldbaatar"
 ---
+
+
+```{r}
+library(tidyverse)
+```
+
